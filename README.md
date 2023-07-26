@@ -1,5 +1,5 @@
 # Classification-of-ECG-signals
-## Model Performance
+## LSTM Performance
 
 - ROC_AUC Score: 0.9403510564367388
 - Parameters for conv classifier: 384453
